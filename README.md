@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React and react native**
 
-- 👨‍💻 All of my portfolio [https://willisopiyo.vercel.app/](https://willisopiyo.vercel.app/)
+- 👨‍💻 Checkout my portfolio [https://willisopiyo.vercel.app/](https://willisopiyo.vercel.app/)
 
 - 💬 Ask me about **javascript,html and css**
 
